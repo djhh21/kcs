@@ -1,0 +1,2 @@
+# kcs.config
+.client
